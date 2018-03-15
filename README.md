@@ -1,3 +1,3 @@
-This project is created from a GitLab [Project Template](https://docs.gitlab.com/ce/gitlab-basics/create-project.html)
+This project is originally a fork from GitLab example repo [Project Template](https://gitlab.com/gitlab-org/project-templates/express)
 
-Additions and changes to the project can be proposed [on the original project](https://gitlab.com/gitlab-org/project-templates/express)
+This version updates the code base and adds some other sprinkles

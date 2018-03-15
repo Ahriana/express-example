@@ -1,10 +1,8 @@
-#!/usr/bin/env node
-
 /**
  * Module dependencies.
  */
 
-const app = require('../app');
+const app = require('./app.js');
 const debug = require('debug')('demo:server');
 const http = require('http');
 
